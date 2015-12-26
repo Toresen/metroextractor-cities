@@ -3905,6 +3905,14 @@
                         "right": "-98.078"
                     }
                 },
+                 "pullman_washington": {
+                    "bbox": {
+                        "top": "46.7561",
+                        "left": "-117.2149",
+                        "bottom": "46.7053",
+                        "right": "-117.0907"
+                    }
+                },
                 "quebec_canada": {
                     "bbox": {
                         "top": "46.927",
